@@ -1,7 +1,6 @@
 <div align="center">
 
 # Hi, I'm Rutvik Parit 👋
-
 ### Java + React Full Stack Developer | AI & Automation Enthusiast
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=00C4FF&center=true&vCenter=true&width=700&lines=Java+%2B+React+Full+Stack+Developer;Building+AI-Powered+Applications;Workflow+Automation+with+n8n;Always+Learning+and+Building" />
@@ -29,13 +28,9 @@
 ## 💻 Tech Stack
 
 **Languages:** Java • Python • JavaScript
-
 **Frontend:** React • HTML5 • CSS3 • Bootstrap
-
 **Backend:** Spring Boot • REST APIs • MVC Architecture
-
 **Databases:** MySQL • Supabase
-
 **Tools & AI:** Git • Maven • n8n • Ollama • LLaVA
 
 ---
@@ -43,16 +38,13 @@
 ## 📌 Featured Projects
 
 ### 🤖 Disha – AI Chatbot
-
 AI-powered chatbot built with Java, JSP, Servlets, MySQL, and Ollama for dynamic response generation.
 
-### 💸 OneBuckAid
+### 💸 OneBuckAid *(Team project — Kverty)*
+OCR-based UPI donation verification platform using React, Supabase, n8n, and LLaVA. Built as part of a small team during my work at Kverty — I focused on the n8n OCR workflow and Supabase backend integration.
 
-OCR-based UPI donation verification platform using React, Supabase, n8n, and LLaVA.
-
-### 🛡️ StayAway
-
-Real-time safety and monitoring system with authentication and backend services powered by Supabase.
+### 🛡️ StayAway *(Team project — Kverty)*
+Real-time scam detection platform with authentication and backend services powered by Supabase. Built as part of a small team during my work at Kverty — I contributed the rule-based fraud detection logic and backend features.
 
 ---
 
@@ -85,9 +77,7 @@ Real-time safety and monitoring system with authentication and backend services 
 ## 📫 Connect With Me
 
 📧 [rutvikparitcs@gmail.com](mailto:rutvikparitcs@gmail.com)
-
 💼 LinkedIn: linkedin.com/in/rutvik-parit-130b8132a
-
 🐙 GitHub: github.com/Rutvikp-07
 
 ---
