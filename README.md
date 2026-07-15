@@ -6,9 +6,11 @@
 
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rutvik-parit-130b8132a)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rutvikparitcs@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rutvikp-07)
+<a href="https://linkedin.com/in/rutvik-parit-130b8132a"><img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="44" height="44" alt="LinkedIn" /></a>
+&nbsp;&nbsp;
+<a href="mailto:rutvikparitcs@gmail.com"><img src="https://cdn.simpleicons.org/gmail/D14836" width="44" height="44" alt="Gmail" /></a>
+&nbsp;&nbsp;
+<a href="https://github.com/Rutvikp-07"><img src="https://cdn.simpleicons.org/github/181717" width="44" height="44" alt="GitHub" /></a>
 
 <img src="https://komarev.com/ghpvc/?username=Rutvikp-07&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
 
@@ -40,28 +42,29 @@ const rutvik = {
 
 <div align="center">
 
-**Frontend**
-<br>
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-**Backend & Automation**
-<br>
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Apache Tomcat](https://img.shields.io/badge/Apache%20Tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black)
-
-**Databases & Tools**
-<br>
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+<table>
+<tr>
+<td align="center" width="90"><img src="https://cdn.simpleicons.org/react/61DAFB" width="42" height="42" alt="React"/><br><sub>React</sub></td>
+<td align="center" width="90"><img src="https://cdn.simpleicons.org/vite/646CFF" width="42" height="42" alt="Vite"/><br><sub>Vite</sub></td>
+<td align="center" width="90"><img src="https://cdn.simpleicons.org/html5/E34F26" width="42" height="42" alt="HTML5"/><br><sub>HTML5</sub></td>
+<td align="center" width="90"><img src="https://cdn.simpleicons.org/css/1572B6" width="42" height="42" alt="CSS"/><br><sub>CSS3</sub></td>
+<td align="center" width="90"><img src="https://cdn.simpleicons.org/bootstrap/7952B3" width="42" height="42" alt="Bootstrap"/><br><sub>Bootstrap</sub></td>
+<td align="center" width="90"><img src="https://cdn.simpleicons.org/openjdk/ED8B00" width="42" height="42" alt="Java"/><br><sub>Java</sub></td>
+</tr>
+<tr>
+<td align="center" width="90"><img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="42" height="42" alt="JavaScript"/><br><sub>JavaScript</sub></td>
+<td align="center" width="90"><img src="https://cdn.simpleicons.org/n8n/EA4B71" width="42" height="42" alt="n8n"/><br><sub>n8n</sub></td>
+<td align="center" width="90"><img src="https://cdn.simpleicons.org/supabase/3FCF8E" width="42" height="42" alt="Supabase"/><br><sub>Supabase</sub></td>
+<td align="center" width="90"><img src="https://cdn.simpleicons.org/apachetomcat/F8DC75" width="42" height="42" alt="Apache Tomcat"/><br><sub>Tomcat</sub></td>
+<td align="center" width="90"><img src="https://cdn.simpleicons.org/mysql/4479A1" width="42" height="42" alt="MySQL"/><br><sub>MySQL</sub></td>
+<td align="center" width="90"><img src="https://cdn.simpleicons.org/git/F05032" width="42" height="42" alt="Git"/><br><sub>Git</sub></td>
+</tr>
+<tr>
+<td align="center" width="90"><img src="https://cdn.simpleicons.org/apachemaven/C71A36" width="42" height="42" alt="Maven"/><br><sub>Maven</sub></td>
+<td align="center" width="90"><img src="https://cdn.simpleicons.org/ollama/000000" width="42" height="42" alt="Ollama"/><br><sub>Ollama</sub></td>
+<td></td><td></td><td></td><td></td>
+</tr>
+</table>
 
 </div>
 
@@ -160,9 +163,11 @@ Full backend for an AI chatbot: request-response handling, database integration,
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/-Rutvik%20Parit-0A66C2?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/rutvik-parit-130b8132a)
-[![Gmail](https://img.shields.io/badge/-rutvikparitcs%40gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:rutvikparitcs@gmail.com)
-[![GitHub](https://img.shields.io/badge/-Rutvikp--07-181717?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/Rutvikp-07)
+<a href="https://linkedin.com/in/rutvik-parit-130b8132a"><img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="36" height="36" alt="LinkedIn" /></a>
+&nbsp;&nbsp;
+<a href="mailto:rutvikparitcs@gmail.com"><img src="https://cdn.simpleicons.org/gmail/D14836" width="36" height="36" alt="Gmail" /></a>
+&nbsp;&nbsp;
+<a href="https://github.com/Rutvikp-07"><img src="https://cdn.simpleicons.org/github/181717" width="36" height="36" alt="GitHub" /></a>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C4FF,100:0F2027&height=100&section=footer" width="100%"/>
 
